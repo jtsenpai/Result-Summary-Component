@@ -64,5 +64,5 @@ I plan to continue learning React while working on CSS Frameworks
 ## Author
 
 - LinkedIn - [Jesutoni Odufeso](https://www.linkedin.com/in/jesutoni-odufeso-25b1b9223)
-- Frontend Mentor - [@jtsenpai]https://www.frontendmentor.io/profile/jtsenpai)
+- Frontend Mentor - [@jtsenpai](https://www.frontendmentor.io/profile/jtsenpai)
 - Twitter - [@jtsenpai002](https://twitter.com/jtsenpai002)
